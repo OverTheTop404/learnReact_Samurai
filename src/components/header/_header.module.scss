@@ -1,0 +1,12 @@
+.header {
+  grid-area: header;
+  background: #4694ba;
+  padding: 20px;
+  img{
+    width: 100px;
+  }
+  .authSection{
+    float: right;
+    color: #fff;
+  }
+}

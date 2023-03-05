@@ -1,0 +1,48 @@
+.dialogsPage{
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+  grid-gap: 10px;
+}
+.dialogsList{
+  ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  :last-child{border-bottom: 0}
+}
+.messagesList{
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.messageArea{
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+  right: 43px;
+  textarea{
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+  }
+  button{
+    position: absolute;
+    top: 1%;
+    right: -22px;
+    height: 86%;
+    padding: 0 20px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    border: 1px solid #ddd;
+    &:hover{
+      cursor: pointer;
+      background: #e5f0f5;
+    }
+  }
+}

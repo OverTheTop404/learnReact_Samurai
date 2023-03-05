@@ -1,0 +1,30 @@
+.messageItem{
+  padding: 10px 0;
+  margin-bottom: 5px;
+}
+
+.messageText{
+  background: #eee;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.fromMe{
+  text-align: right;
+  .messageText{
+    padding-right: 40px;
+    padding-left: 30px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background: #e5f0f5;
+  }
+}
+
+.fromYou{
+  text-align: left;
+  .messageText{
+    padding-right: 30px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+}

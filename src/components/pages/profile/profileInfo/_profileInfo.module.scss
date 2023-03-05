@@ -1,0 +1,30 @@
+.topImage img{
+  width: 100%;
+  height: 150px;
+}
+
+.aboutUser{
+  display: grid;
+  grid-template-areas:
+  "avatar info";
+  grid-template-rows: 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+}
+
+.avatar img{
+  width: 100%;
+  grid-area: avatar;
+}
+
+.info{
+  grid-area: info;
+}
+
+.personName {
+  margin: 5px 0;
+  text-transform: capitalize;
+}
+.socItem{
+
+}

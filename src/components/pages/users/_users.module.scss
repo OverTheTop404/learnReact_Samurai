@@ -1,0 +1,36 @@
+.usersPage{
+  background: #fff;
+  border-radius: 4px;
+  padding: 10px;
+  height: 100%;
+}
+
+.userItem{
+  background: #fff;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #eee;
+  display: grid;
+  grid-template-areas:
+  "image info address";
+  grid-template-rows: 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+}
+
+.imageSection{
+  grid-area: image;
+  img{
+    border-radius: 50%;
+    width: 100px;
+  }
+}
+
+.personNameIntro{
+  grid-area: info;
+}
+
+.personAddress{
+  grid-area: address;
+}
