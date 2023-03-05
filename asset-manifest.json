@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/OverTheTop404/learnReact_Samurai/static/css/main.cd4f983f.css",
-    "main.js": "/OverTheTop404/learnReact_Samurai/static/js/main.41fc1a5b.js",
-    "static/css/450.b364eec7.chunk.css": "/OverTheTop404/learnReact_Samurai/static/css/450.b364eec7.chunk.css",
-    "static/js/450.8e6084e4.chunk.js": "/OverTheTop404/learnReact_Samurai/static/js/450.8e6084e4.chunk.js",
-    "static/css/822.b32bacdb.chunk.css": "/OverTheTop404/learnReact_Samurai/static/css/822.b32bacdb.chunk.css",
-    "static/js/822.8ffe37f4.chunk.js": "/OverTheTop404/learnReact_Samurai/static/js/822.8ffe37f4.chunk.js",
-    "static/css/657.655dd773.chunk.css": "/OverTheTop404/learnReact_Samurai/static/css/657.655dd773.chunk.css",
-    "static/js/657.001bcc5d.chunk.js": "/OverTheTop404/learnReact_Samurai/static/js/657.001bcc5d.chunk.js",
-    "static/media/prealoader.gif": "/OverTheTop404/learnReact_Samurai/static/media/prealoader.e55a1721e7a1c21a0a8d.gif",
-    "static/media/user.png": "/OverTheTop404/learnReact_Samurai/static/media/user.a6143582309785dca610.png",
-    "index.html": "/OverTheTop404/learnReact_Samurai/index.html",
-    "main.cd4f983f.css.map": "/OverTheTop404/learnReact_Samurai/static/css/main.cd4f983f.css.map",
-    "main.41fc1a5b.js.map": "/OverTheTop404/learnReact_Samurai/static/js/main.41fc1a5b.js.map",
-    "450.b364eec7.chunk.css.map": "/OverTheTop404/learnReact_Samurai/static/css/450.b364eec7.chunk.css.map",
-    "450.8e6084e4.chunk.js.map": "/OverTheTop404/learnReact_Samurai/static/js/450.8e6084e4.chunk.js.map",
-    "822.b32bacdb.chunk.css.map": "/OverTheTop404/learnReact_Samurai/static/css/822.b32bacdb.chunk.css.map",
-    "822.8ffe37f4.chunk.js.map": "/OverTheTop404/learnReact_Samurai/static/js/822.8ffe37f4.chunk.js.map",
-    "657.655dd773.chunk.css.map": "/OverTheTop404/learnReact_Samurai/static/css/657.655dd773.chunk.css.map",
-    "657.001bcc5d.chunk.js.map": "/OverTheTop404/learnReact_Samurai/static/js/657.001bcc5d.chunk.js.map"
+    "main.css": "/learnReact_Samurai/static/css/main.cd4f983f.css",
+    "main.js": "/learnReact_Samurai/static/js/main.14264388.js",
+    "static/css/450.b364eec7.chunk.css": "/learnReact_Samurai/static/css/450.b364eec7.chunk.css",
+    "static/js/450.8e6084e4.chunk.js": "/learnReact_Samurai/static/js/450.8e6084e4.chunk.js",
+    "static/css/822.b32bacdb.chunk.css": "/learnReact_Samurai/static/css/822.b32bacdb.chunk.css",
+    "static/js/822.8ffe37f4.chunk.js": "/learnReact_Samurai/static/js/822.8ffe37f4.chunk.js",
+    "static/css/657.655dd773.chunk.css": "/learnReact_Samurai/static/css/657.655dd773.chunk.css",
+    "static/js/657.001bcc5d.chunk.js": "/learnReact_Samurai/static/js/657.001bcc5d.chunk.js",
+    "static/media/prealoader.gif": "/learnReact_Samurai/static/media/prealoader.e55a1721e7a1c21a0a8d.gif",
+    "static/media/user.png": "/learnReact_Samurai/static/media/user.a6143582309785dca610.png",
+    "index.html": "/learnReact_Samurai/index.html",
+    "main.cd4f983f.css.map": "/learnReact_Samurai/static/css/main.cd4f983f.css.map",
+    "main.14264388.js.map": "/learnReact_Samurai/static/js/main.14264388.js.map",
+    "450.b364eec7.chunk.css.map": "/learnReact_Samurai/static/css/450.b364eec7.chunk.css.map",
+    "450.8e6084e4.chunk.js.map": "/learnReact_Samurai/static/js/450.8e6084e4.chunk.js.map",
+    "822.b32bacdb.chunk.css.map": "/learnReact_Samurai/static/css/822.b32bacdb.chunk.css.map",
+    "822.8ffe37f4.chunk.js.map": "/learnReact_Samurai/static/js/822.8ffe37f4.chunk.js.map",
+    "657.655dd773.chunk.css.map": "/learnReact_Samurai/static/css/657.655dd773.chunk.css.map",
+    "657.001bcc5d.chunk.js.map": "/learnReact_Samurai/static/js/657.001bcc5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd4f983f.css",
-    "static/js/main.41fc1a5b.js"
+    "static/js/main.14264388.js"
   ]
 }
