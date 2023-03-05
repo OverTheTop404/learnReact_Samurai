@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learnReact_Samurai/static/css/main.cd4f983f.css",
-    "main.js": "/learnReact_Samurai/static/js/main.14264388.js",
+    "main.js": "/learnReact_Samurai/static/js/main.8727be3e.js",
     "static/css/450.b364eec7.chunk.css": "/learnReact_Samurai/static/css/450.b364eec7.chunk.css",
     "static/js/450.8e6084e4.chunk.js": "/learnReact_Samurai/static/js/450.8e6084e4.chunk.js",
     "static/css/822.b32bacdb.chunk.css": "/learnReact_Samurai/static/css/822.b32bacdb.chunk.css",
@@ -12,7 +12,7 @@
     "static/media/user.png": "/learnReact_Samurai/static/media/user.a6143582309785dca610.png",
     "index.html": "/learnReact_Samurai/index.html",
     "main.cd4f983f.css.map": "/learnReact_Samurai/static/css/main.cd4f983f.css.map",
-    "main.14264388.js.map": "/learnReact_Samurai/static/js/main.14264388.js.map",
+    "main.8727be3e.js.map": "/learnReact_Samurai/static/js/main.8727be3e.js.map",
     "450.b364eec7.chunk.css.map": "/learnReact_Samurai/static/css/450.b364eec7.chunk.css.map",
     "450.8e6084e4.chunk.js.map": "/learnReact_Samurai/static/js/450.8e6084e4.chunk.js.map",
     "822.b32bacdb.chunk.css.map": "/learnReact_Samurai/static/css/822.b32bacdb.chunk.css.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.cd4f983f.css",
-    "static/js/main.14264388.js"
+    "static/js/main.8727be3e.js"
   ]
 }
